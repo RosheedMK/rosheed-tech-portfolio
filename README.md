@@ -19,7 +19,7 @@ Profesional orientado a la resolución de problemas, el soporte tecnológico y l
 - Soporte Técnico
 - Automatización de Procesos
 - Productividad Empresarial
-- Desarrollo Web
+- Desarrollador
 - Gestión de Información
 - Mejora Continua
 
